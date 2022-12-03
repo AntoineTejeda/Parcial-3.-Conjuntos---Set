@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670081656 source:c:\users\andre\onedrive\escritorio\programas_estrucuturas\conjuntos_prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
